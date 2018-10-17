@@ -1,3 +1,3 @@
 # curso-git
 
-Primeiro Commit
+Primeiro Commit - Modificando o Inicio
